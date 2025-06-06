@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "compass",
+  "ingredients": [
+    "minecraft:compass"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:compass"
+  }
+}

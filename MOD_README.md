@@ -2,8 +2,8 @@
 
 ### ✨ What It Does
 
-Tired of magnetized compasses cluttering your inventory once they're no longer needed?  
-**Compass Cleaner** is a tiny but handy mod that lets you **demagnetize compasses** via a **simple shapeless crafting recipe**:
+Tired of magnetized or renamed compasses cluttering your inventory once they're no longer needed?  
+**Compass Cleaner** is a tiny but handy mod that lets you **fully reset compasses** via a **simple shapeless crafting recipe** — removing any lodestone binding, custom name, or other NBT data:
 
 ```
 Input:  [Magnetized Compass]  

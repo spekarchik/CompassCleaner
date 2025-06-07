@@ -3,8 +3,12 @@
   "group": "compass",
   "category": "equipment",
   "key": {
-    "#": "minecraft:iron_ingot",
-    "X": "minecraft:redstone"
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:redstone"
+    }
   },
   "pattern": [
     " # ",

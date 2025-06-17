@@ -50,14 +50,14 @@ No paper, no tools, no extra steps — just drop it into the crafting grid and i
 # 🛠️ Installation and Technical Information
 
 ## Installation
-- Make sure you have **Minecraft 1.21.1**, **1.21.4** or **1.21.5** with **NeoForge** installed.
+- Make sure you have **Minecraft 1.21.1**, **1.21.4**, **1.21.5** or **1.21.6** with **NeoForge** installed.
 - Download the mod `.jar` file.
 - Place it into your `mods` folder.
 - Launch the game and enjoy your adventure!
 
 ## Technical Details
 - **Developer:** Sergey Pekarchik
-- **Supported NeoForge versions:** 1.21.1, 1.21.4 and 1.21.5
+- **Supported NeoForge versions:** 1.21.1, 1.21.4, 1.21.5 and 1.21.6
 - **Source Code:** [GitHub Repository](https://github.com/spekarchik/CompassCleaner)
 
 ---

@@ -51,6 +51,7 @@ No paper, no tools, no extra steps — just drop it into the crafting grid and i
 
 ## Installation
 - Make sure you have **Minecraft 1.20.5 - 1.21.7** with **NeoForge**, **Forge** or **Fabric** installed.
+- **Fabric** requires **Fabric API** to be installed as well.
 - Download the mod `.jar` file.
 - Place it into your `mods` folder.
 - Launch the game and enjoy your adventure!

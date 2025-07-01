@@ -11,7 +11,7 @@
         "homepage": "https://modrinth.com/user/spekarchik"
     },
     "license": "MIT License",
-    "icon": "logo.png",
+    "icon": "pack.png",
     "environment": "*",
     "depends": {
         "fabric-resource-loader-v0": "*",

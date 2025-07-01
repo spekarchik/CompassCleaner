@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "compasscleaner",
-    "version": "1.20.6-2.0.0",
+    "version": "1.20.6-2.0.1",
     "name": "Compass Cleaner",
     "description": "A simple mod that allows you to easily demagnetize compasses using a straightforward crafting recipe.\\nKeeps your inventory organized by preventing confusion between magnetized and regular compasses.",
     "authors": [

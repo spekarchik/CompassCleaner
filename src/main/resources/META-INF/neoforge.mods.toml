@@ -5,7 +5,7 @@ showAsResourcePack = false
 
 [[mods]]
 modId = "compasscleaner"
-version = "1.21.4-2.0.0"
+version = "1.20.6-2.0.0"
 displayName = "Compass Cleaner"
 displayURL = 'https://modrinth.com/user/spekarchik'
 logoFile = "logo.png"
@@ -15,6 +15,6 @@ description = "A simple mod that allows you to easily demagnetize compasses usin
 [[dependencies.compasscleaner]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.20.5,1.21.2)"
+versionRange = "[1.20.5,1.21)"
 ordering="NONE"
 side = "BOTH"

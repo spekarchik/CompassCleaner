@@ -12,12 +12,4 @@ java {
 
 jar {
     archiveBaseName.set(mod_id)
-    manifest {
-        attributes(
-                'Implementation-Title': mod_name,
-                'Implementation-Version': version,
-                'Implementation-Vendor': mod_authors,
-                'Implementation-URL': home_url
-        )
-    }
 }

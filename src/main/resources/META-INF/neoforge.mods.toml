@@ -15,6 +15,6 @@ description = "A simple mod that allows you to easily demagnetize compasses usin
 [[dependencies.compasscleaner]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.21.2,)"
+versionRange = "[1.20.5,1.21.2)"
 ordering="NONE"
 side = "BOTH"

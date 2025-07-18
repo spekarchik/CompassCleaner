@@ -5,7 +5,7 @@ showAsResourcePack = false
 
 [[mods]]
 modId = "compasscleaner"
-version = "1.21.4-2.0.1"
+version = "1.21.8-2.0.1"
 displayName = "Compass Cleaner"
 displayURL = 'https://modrinth.com/user/spekarchik'
 logoFile = "pack.png"

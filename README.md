@@ -50,7 +50,7 @@ No paper, no tools, no extra steps — just drop it into the crafting grid and i
 # 🛠️ Installation and Technical Information
 
 ## Installation
-- Make sure you have **Minecraft 1.20.5 - 1.21.7** with **NeoForge**, **Forge** or **Fabric** installed.
+- Make sure you have **Minecraft 1.20.5 - 1.21.8** with **NeoForge**, **Forge** or **Fabric** installed.
 - **Fabric** requires **Fabric API** to be installed as well.
 - Download the mod `.jar` file.
 - Place it into your `mods` folder.
@@ -58,7 +58,7 @@ No paper, no tools, no extra steps — just drop it into the crafting grid and i
 
 ## Technical Details
 - **Developer:** Sergey Pekarchik
-- **Supported NeoForge, Forge and Fabric versions:** 1.20.5 - 1.21.7
+- **Supported NeoForge, Forge and Fabric versions:** 1.20.5 - 1.21.8
 - **Source Code:** [GitHub Repository](https://github.com/spekarchik/CompassCleaner)
 
 ---

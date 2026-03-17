@@ -57,8 +57,7 @@ No paper, no tools, no extra steps — just drop it into the crafting grid and i
 - Launch the game and enjoy your adventure!
 
 ## Technical Details
-- **Developer:** Sergey Pekarchik
-- **Supported NeoForge, Forge and Fabric versions:** 1.20.5 - 1.21.11
+- **Supported Minecraft versions:** 1.20.5 - 1.21.11
 - **Source Code:** [GitHub Repository](https://github.com/spekarchik/CompassCleaner)
 
 ---

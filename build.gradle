@@ -13,3 +13,30 @@ java {
 jar {
     archiveBaseName.set(mod_id)
 }
+
+def metadata = [
+        mod_id               : mod_id,
+        mod_version          : mod_version,
+        mod_name             : mod_name,
+        mod_description      : mod_description,
+        mod_license          : mod_license,
+        mod_authors          : mod_authors,
+        home_url             : home_url,
+        logo                 : logo,
+        mod_side             : mod_side,
+        fabric_environment   : mod_side.toLowerCase(),
+        min_minecraft_version: min_minecraft_version
+]
+
+processResources {
+    inputs.properties(metadata)
+
+    filesMatching([
+            'fabric.mod.json',
+            'META-INF/mods.toml',
+            'META-INF/neoforge.mods.toml',
+            'pack.mcmeta'
+    ]) {
+        expand(metadata)
+    }
+}

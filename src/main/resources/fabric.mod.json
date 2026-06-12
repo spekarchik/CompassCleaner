@@ -1,20 +1,20 @@
 {
     "schemaVersion": 1,
-    "id": "compasscleaner",
-    "version": "26.2-2.0.1",
-    "name": "Compass Cleaner",
-    "description": "A simple mod that allows you to easily demagnetize compasses using a straightforward crafting recipe.\\nKeeps your inventory organized by preventing confusion between magnetized and regular compasses.",
+    "id": "${mod_id}",
+    "version": "${mod_version}",
+    "name": "${mod_name}",
+    "description": "${mod_description}",
     "authors": [
-        "Sergey Pekarchik"
+        "${mod_authors}"
     ],
     "contact": {
-        "homepage": "https://modrinth.com/user/spekarchik"
+        "homepage": "${home_url}"
     },
-    "license": "MIT License",
-    "icon": "pack.png",
-    "environment": "*",
+    "license": "${mod_license}",
+    "icon": "${logo}",
+    "environment": "${fabric_environment}",
     "depends": {
         "fabric-resource-loader-v0": "*",
-        "minecraft": ">=1.21.2"
+        "minecraft": ">=${min_minecraft_version}"
     }
 }

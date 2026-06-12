@@ -1,20 +1,20 @@
 modLoader = "lowcodefml"
 loaderVersion = "[1,)"
-license = "MIT License"
+license = "${mod_license}"
 showAsResourcePack = false
 
 [[mods]]
-modId = "compasscleaner"
-version = "26.2-2.0.1"
-displayName = "Compass Cleaner"
-displayURL = 'https://modrinth.com/user/spekarchik'
-logoFile = "pack.png"
-authors = "Sergey Pekarchik"
-description = "A simple mod that allows you to easily demagnetize compasses using a straightforward crafting recipe.\nKeeps your inventory organized by preventing confusion between magnetized and regular compasses."
+modId = "${mod_id}"
+version = "${mod_version}"
+displayName = "${mod_name}"
+displayURL = "${home_url}"
+logoFile = "${logo}"
+authors = "${mod_authors}"
+description = "${mod_description}"
 
-[[dependencies.compasscleaner]]
+[[dependencies.${mod_id}]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.21.2,)"
+versionRange = "[${min_minecraft_version},)"
 ordering="NONE"
-side = "BOTH"
+side = "${mod_side}"

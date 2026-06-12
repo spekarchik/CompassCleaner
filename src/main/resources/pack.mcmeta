@@ -1,9 +1,9 @@
 {
   "pack": {
     "pack_format": 81,
-    "supported_formats": [57, 101],
+    "supported_formats": [57, 107],
     "description": "A simple mod that allows you to easily demagnetize compasses using a straightforward crafting recipe.\\nKeeps your inventory organized by preventing confusion between magnetized and regular compasses.",
     "min_format": [57, 0],
-    "max_format": [101, 1]
+    "max_format": [107, 1]
   }
 }

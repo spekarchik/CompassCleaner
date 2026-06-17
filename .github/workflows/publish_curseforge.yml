@@ -2,7 +2,7 @@ name: Publish to CurseForge
 
 on:
   workflow_run:
-    workflows: ["Build Mod"]
+    workflows: ["Build"]
     types:
       - completed
 
